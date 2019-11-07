@@ -8,7 +8,7 @@ Resources, updates, and actions for active GA4GH contributors to ensure the effe
 
 ### Menu
 * GA4GH Staff List
-* [Newsletters](/newsletters.md)
+* [Newsletters](/newsletters)
 * Communications Templates
 
 
