@@ -1,6 +1,5 @@
-title: GA4GH::ops
+title:   .
 logo: https://www.ga4gh.org/wp-content/themes/ga4gh-theme/gfx/GA-logo-horizontal-tag-RGB.svg
-description: Resources, actions, and updates for active GA4GH contributors.
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
