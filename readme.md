@@ -1,3 +1,11 @@
+---
+title:  "GA4GH Operations & Communications"
+layout: default
+permalink: /newsletters.html
+category:
+  - pages
+---
+
 ## GA4GH Staff Contacts
 
 ### Work Stream Managers:
