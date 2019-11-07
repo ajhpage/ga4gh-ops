@@ -1,7 +1,7 @@
 ---
 title:  "GA4GH Operations & Communications"
 layout: default
-permalink: /newsletters.html
+permalink: /index.html
 category:
   - pages
 ---
