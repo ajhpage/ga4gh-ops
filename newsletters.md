@@ -1,3 +1,11 @@
+---
+title:  "Work Stream Updates Newsletter Archive"
+layout: default
+permalink: /newsletters.html
+category:
+  - pages
+---
+
 ## GA4GH Updates Newsletters
 Access past versions of the GA4GH Work Stream and Roadmap updates newsletter here.
 
