@@ -3,3 +3,4 @@ theme: jekyll-theme-minimal
 title: [GA4GH::Ops]
 description: [A short description of your site's purpose]
 logo: [https://www.ga4gh.org/wp-content/themes/ga4gh-theme/gfx/GA-logo-horizontal-tag-RGB.svg]
+downloads: ["true"]
