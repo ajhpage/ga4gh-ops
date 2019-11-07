@@ -1,5 +1,5 @@
 # GA4GH Operations & Communications
-This website provides resources, updates, and actions for GA4GH Active Contributors to ensure the effective, efficient functioning of the organization.
+Resources, updates, and actions for active GA4GH contributors to ensure the effective, efficient functioning of the organization.
 
 ### Announcements
 ||
