@@ -1,5 +1,5 @@
 ---
-title:  "Work Stream Updates Newsletter Archive"
+title:  "GA4GH Operations & Communications"
 layout: default
 permalink: /newsletters.html
 category:
