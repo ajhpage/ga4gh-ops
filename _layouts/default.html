@@ -26,10 +26,10 @@
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       {% if site.github.is_project_page %}
-        <a href="{{ https://ajhpage.github.io/ga4gh-ops.github.io/ }}" class="btn">Home</a>
-        <a href="{{ https://ajhpage.github.io/ga4gh-ops.github.io/newsletters }}" class="btn">Newsletters</a>
-        <a href="{{ https://ajhpage.github.io/ga4gh-ops.github.io/ }}" class="btn">Resources</a>
-        <a href="{{ https://ajhpage.github.io/ga4gh-ops.github.io/ }}" class="btn">Meetings</a>
+        <a href="{{ site.github.index_url }}" class="btn">Home</a>
+        <a href="{{ site.github.newsletters_url }}" class="btn">Newsletters</a>
+        <a href="{{ site.github.resources_url }}" class="btn">Resources</a>
+        <a href="{{ site.github.meetings_url }}" class="btn">Meetings</a>
       {% endif %}
       {% if site.show_downloads %}
         <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
