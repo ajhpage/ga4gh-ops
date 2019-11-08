@@ -1,9 +1,0 @@
-title: GA4GH Operations and Communications
-description: Resources, updates, and actions for active GA4GH contributors.
-show_downloads: false
-theme: jekyll-theme-cayman
-github:
-  indx_url: https://ajhpage.github.io/ga4gh-ops.github.io/index
-  news_url: https://ajhpage.github.io/ga4gh-ops.github.io/newsletters
-  meet_url: https://ajhpage.github.io/ga4gh-ops.github.io/meetings
-  res_url: https://ajhpage.github.io/ga4gh-ops.github.io/resources
