@@ -1,10 +1,3 @@
----
-title:  "GA4GH Operations & Communications"
-layout: default
-permalink: /index.html
-category:
-  - pages
----
 
 ## GA4GH Staff Contacts
 
